@@ -1,6 +1,7 @@
 # Summary
 
 * [Getting started](/getting-started/README.md)
+* [Configuration](/configuration/README.md)
 * [Introduction](/introduction/README.md)
 * [Bases](/basics/README.md)
   * [Flux](/basics/flux/README.md)
